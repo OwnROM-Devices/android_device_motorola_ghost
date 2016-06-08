@@ -10,17 +10,5 @@
     "target_path": "kernel/motorola/ghost",
     "remote": "github",
     "revision": "cm-13.0"
-  },
-  {
-    "repository": "proprietary_vendor_motorola",
-    "target_path": "vendor/motorola",
-    "revision": "cm-13.0",
-    "remote": "tm"
-  },
-  {
-    "repository": "CyanogenMod/android_device_qcom_common",
-    "target_path": "device/qcom/common",
-    "remote": "github",
-    "revision": "cm-13.0"
   }
 ]
