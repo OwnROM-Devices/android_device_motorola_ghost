@@ -10,11 +10,6 @@
     "branch": "cm-13.0"
   },
   {
-    "repository": "AICP/proprietary_vendor_motorola",
-    "target_path": "vendor/motorola",
-    "branch": "mm6.0"
-  },
-  {
     "repository":  "CyanogenMod/android_external_stlport",
     "target_path": "external/stlport",
     "branch":      "cm-13.0"
